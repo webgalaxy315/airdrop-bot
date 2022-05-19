@@ -1,0 +1,2 @@
+# airdrop-bot
+python
